@@ -53,5 +53,5 @@ class featuredplantcard extends StatelessWidget {
                 DecorationImage(image: AssetImage(image), fit: BoxFit.cover)),
       ),
     );
-  }
+   some new changes
 }
