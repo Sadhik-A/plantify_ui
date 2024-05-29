@@ -28,7 +28,7 @@ class bottombar extends StatelessWidget {
           IconButton(onPressed: () {}, icon: Icon(Icons.favorite)),
           IconButton(onPressed: () {}, icon: Icon(Icons.person))
         ],
-        new ui changes
+        
       ),
     );
   }
